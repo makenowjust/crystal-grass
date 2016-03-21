@@ -8,7 +8,7 @@
 
 ```console
 $ git clone https://github.com/MakeNowJust/crystal-grass
-$ crystal build --release -o grass src/main.cr
+$ crystal build --release -o grass src/grass.cr
 ```
 
 ## Usage
